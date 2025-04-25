@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Business from './Business';
+import BusinessList from './BusinessList';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -10,13 +11,8 @@ function App() {
   return (
     <div class="app">
       
-        <Business />
-        <Business />
-        <Business />
-        <Business />
-        <Business />
-        <Business />
-        <Business />
+        
+        <BusinessList />
       
     </div>
   )
