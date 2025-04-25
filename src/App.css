@@ -2,41 +2,77 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+html {
+  box-sizing: border-box;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* STYLES FOR BUSINESS CARD */
+
+img {
+  width: 100%;
+  display: block;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.card-container {
+  width: 100%;
+  width: 300px;
+  height: 360px;
+  border: 2px solid green;
+  margin: 10PX 10px;
 }
 
-.card {
-  padding: 2em;
+.info-container {
+  display: flex;
+  align-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 100px;
 }
 
-.read-the-docs {
-  color: #888;
+.location-container {
+  text-align: left;
+}
+
+.rating-container {
+  text-align: right;
+}
+
+.state-zip {
+  margin-left: 5px;
+}
+
+
+h1 {
+  font-size: 30px;
+  margin: 5px 5px;
+}
+
+p {
+  margin: 5px 5px;
+}
+
+.txt {
+  font-size: 16px;
+}
+
+.golden {
+  color: gold;
+  font-weight: bold;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+/* STYLE APP.JSX */
+
+.app {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
