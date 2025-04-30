@@ -13,10 +13,10 @@ Through the four parts of Ravenous, I’ll build upon this foundation, adding fe
     Utilize HTML, CSS, and Javascript as part of the tech stack
     Version control your application with Git and host the repository on GitHub
     Write a README (using Markdown) that documents your project, including:
-        The purpose of your project
-        Technologies used
-        Features
-        Future work
+       - The purpose of your project
+       - Technologies used
+       - Features
+       - Future work
 
 ## Features
 
@@ -26,13 +26,13 @@ Through the four parts of Ravenous, I’ll build upon this foundation, adding fe
 
 ## Prerequisites / Technologies
 
-    HTML
-    CSS
-    Javascript
-    React
-    Git and GitHub
-    HTTP Requests and Responses
-    Authentication
+    * HTML
+    * CSS
+    * Javascript
+    * React
+    * Git and GitHub
+    * HTTP Requests and Responses
+    * Authentication
 
 ## Collaborators
 
