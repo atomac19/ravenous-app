@@ -24,7 +24,7 @@ Through the four parts of Ravenous, I’ll build upon this foundation, adding fe
     Users can simulate a search by typing in the search bar
     A list of mock restaurant data is presented to the user.
 
-## Prerequisites / Techonlogies
+## Prerequisites / Technologies
 
     HTML
     CSS
