@@ -1,0 +1,64 @@
+/* STYLE SEARCHBAR */
+
+.searchbar-container {
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    align-items: center;
+    background-color: gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 11px;
+    
+  }
+  
+  #title-bar {
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(219, 162, 55);
+    color: white;
+    font-size: 40px;
+    margin-bottom: 100px;
+  }
+  
+  button {
+    color: white;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  
+  #search {
+    background-color: rgb(219, 162, 55);
+    border-radius: 5%;
+  }
+  
+  hr {
+    border: 1px solid white;
+    width: 40%;
+  }
+  
+  input {
+    width: 250px;
+    padding: 10px 20px;
+    margin: 8px 15px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    outline: none; /* Remove outline around the input when it gets focus (clicked on).*/
+  }
+  
+  .searchbar-inputs {
+    margin: 15px 0;
+  }
+  
+  #search {
+    width: 90px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 13px;
+  }
