@@ -1,12 +1,40 @@
-# React + Vite
+# Ravenous project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In the Ravenous project, I’ll build a restaurant recommendation website that allows users to search for local businesses based on their location and keywords. Using a tech stack that includes HTML, CSS, JavaScript, React, and the Yelp API, I will create an application that replicates the core functionality of Yelp. 
 
-Currently, two official plugins are available:
+## Part 1: Creating Project & Components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In this first part of a four-part project, I lay the foundations of Ravenous by building the website’s homepage. By the end, I have created a static interface for Ravenous, which features a header, a search bar, and a list of businesses.
 
-## Expanding the ESLint configuration
+Through the four parts of Ravenous, I’ll build upon this foundation, adding features such as sorting and filtering options, and dynamic search results. By the end of the project, I’ll have developed a fully functional restaurant recommendation website that will help users find their next favorite eatery.
+## Project Requirements
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    Build the restaurant recommendation application using React
+    Utilize HTML, CSS, and Javascript as part of the tech stack
+    Version control your application with Git and host the repository on GitHub
+    Write a README (using Markdown) that documents your project, including:
+       - The purpose of your project
+       - Technologies used
+       - Features
+       - Future work
+
+## Features
+
+    The website allows users to scroll up and down to navigate through its content.
+    Users can simulate a search by typing in the search bar
+    A list of mock restaurant data is presented to the user.
+
+## Prerequisites / Technologies
+
+    * HTML
+    * CSS
+    * Javascript
+    * React
+    * Git and GitHub
+    * HTTP Requests and Responses
+    * Authentication
+
+## Collaborators
+
+  www.codecademy.com
+
